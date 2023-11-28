@@ -22,3 +22,7 @@ The Pokedex App is a web application that displays a list of Pokémons. Each Pok
 ```bash
 $npm run dev
 ```
+
+## Live version
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a6ed607c-9872-48f4-9e44-f187d9f9792d/deploy-status)](https://app.netlify.com/sites/pokedex-app01/deploys)
